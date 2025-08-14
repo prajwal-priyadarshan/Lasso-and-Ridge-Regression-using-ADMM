@@ -1,2 +1,2 @@
 ## MFC S3
-Lasso & Ridge Regression
+Lasso & Ridge Regression using ADMM.
